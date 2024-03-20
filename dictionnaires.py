@@ -47,3 +47,7 @@ infos_pokemon["evolution"] = "dracofeu"
 del(infos_pokemon["evolution"])
 print(infos_pokemon)
 
+
+#velifier l'existence d'une clé  avec in 
+
+print("poids" in infos_pokemon)
